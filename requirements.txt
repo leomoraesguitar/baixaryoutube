@@ -1,2 +1,5 @@
 flet
-yt_dlp
+pandas
+webbrowser
+requests
+
